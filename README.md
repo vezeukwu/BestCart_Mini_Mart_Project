@@ -20,7 +20,7 @@ The quality issues of the data were handled first, did a thorough cleaning and s
 
 •	The highest selling products during winter and Spring are: Red Lines 405 and small chip 60g in the category of food and snacks
 
-## Key insights and recommendations include:
+## Key insights and recommendations
 •	£21.25M in Total Revenue with 6.60M Units Sold across various product categories.
 
 •	A clear visualization of monthly sales trends, highlighting peak seasons from May to October. Regular Coffee and Grilled Cheese are the highest-selling products by quantity, while Blue Line and Red Line products generate the most revenue. 
